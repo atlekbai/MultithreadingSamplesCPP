@@ -6,7 +6,6 @@
 
 Short program showing, how threads are able to access to an atomic variable.
 Atomic variables have only one access at a time, multiple threads can't change an atomic variable simultaneously.
-
 ---
 ##### synchonisation.cpp
 
