@@ -1,5 +1,5 @@
 # Multithreading samples
----
+
 ##### atomic.cpp
 
 ```std::atomic<typename> variable```
